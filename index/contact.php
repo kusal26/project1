@@ -30,7 +30,7 @@
 
 
                     </blockquote>
-                    <a href="shoppingcart.php"class="btn">Explore now &#8594;</a>
+                    <a href="cart.php"class="btn">Explore now &#8594;</a>
 
 
                 </div>

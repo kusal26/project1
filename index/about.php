@@ -16,7 +16,7 @@
                 <div class="col-2">
                     <h1>COLLEGE PROJECT </h1>
                     <p>Hello I am Purnmina Kapali stuyding at EIC <br> This is my first project</p>
-                    <a href="shoppingcart.php"class="btn">Explore now &#8594;</a>
+                    <a href="cart.php"class="btn">Explore now &#8594;</a>
                 </div>
                 <div class="col-2">
                     <img style="float: right" src="../images/home.jpg" height="400px" width="400px">

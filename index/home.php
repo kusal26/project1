@@ -16,7 +16,7 @@
                 <div class="col-2">
                     <h1>Give Your Workout <br>A New Style!</h1>
                     <p> Success isn't always about greatness.It's about consistency.Consistent<br> hardwork gains success.Greatness will come.</p>
-               <a href="shoppingcart.php"class="btn">Explore now &#8594;</a>
+               <a href="cart.php"class="btn">Explore now &#8594;</a>
                 </div>
                 <div class="col-2">
                     <img style="float: right" src="../images/home.jpg" height="400px" width="400px">

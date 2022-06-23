@@ -1,5 +1,5 @@
 <?php
-include 'database.php';
+include '../database/database.php';
 
 ?>
 
@@ -20,7 +20,7 @@ include 'database.php';
 				<span id="usernameErr"></span>
 				<input type="password" id="pw" name="password" placeholder="Password" />
 				<span id="pwErr"></span>
-				<a href="#">Forgot your password?</a><br>
+				<a href="forgot.php">Forgot your password?</a><br>
 				<p>Don't have an account? <a href="signup.php">Create account<a></p><br>
 				<button name="submit" id="submit">Log In</button>
 			</form>

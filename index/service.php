@@ -20,7 +20,7 @@
                         <li>Made in Nepal</li>
                     </ul>
                     <p><em>Lorem ipsum dolor sit amet consectetur adipisicing elit. A iste corrupti excepturi repellendus magni earum inventore beatae voluptas vel! Dicta eos consectetur, dolor voluptas minima doloribus possimus eveniet optio rem?</em></p>
-                    <a href="shoppingcart.php"class="btn">Explore now &#8594;</a>
+                    <a href="cart.php"class="btn">Explore now &#8594;</a>
                 </div>
                 <div class="col-2">
                     <img style="float: right" src="../images/home.jpg" height="400px" width="400px">

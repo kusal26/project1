@@ -18,7 +18,7 @@
                 stay tune
             </h2>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, culpa nulla. Repudiandae doloremque eos, eaque incidunt at adipisci qui consectetur vitae ex doloribus harum est fugiat aspernatur animi perferendis delectus?
-            <a href="shoppingcart.php"class="btn">Explore now &#8594;</a>
+            <a href="cart.php"class="btn">Explore now &#8594;</a>
                 </div>
 
                 <div class="col-2">
