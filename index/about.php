@@ -14,8 +14,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-2">
-                    <h1>COLLEGE PROJECT </h1>
-                    <p>Hello I am Purnmina Kapali stuyding at EIC <br> This is my first project</p>
+                    <h1>Made In Nepal Brand</h1>
+                    <p>We sell handmade product which is completely made in Nepal <br>We are Kathmandu based Company</p>
                     <a href="cart.php"class="btn">Explore now &#8594;</a>
                 </div>
                 <div class="col-2">
