@@ -14,9 +14,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-2">
-                    <h1>Give Your Workout <br>A New Style!</h1>
-                    <p> Success isn't always about greatness.It's about consistency.Consistent<br> hardwork gains success.Greatness will come.</p>
-               <a href="cart.php"class="btn">Explore now &#8594;</a>
+                    <h2>Home<\h2>
+                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem modi sit 
+                       et sunt voluptatem perferendis aspernatur, ex fugit aliquid quaerat accusantium odit?
+                       Beatae suscipit eum eaque velit ipsa fuga in.<\p>
                 </div>
                 <div class="col-2">
                     <img style="float: right" src="../images/home.jpg" height="400px" width="400px">
