@@ -28,7 +28,7 @@ session_start();
                     <nav style="padding-top:50px">
                         <ul>
                         <li><a href=""></a></li>
-                            <li><a href="../index/home.php">Home</a></li>
+                            <li class="active"><a href="../index/home.php">Home</a></li>
                             <li><a href="../index/about.php">About</a></li>
                             <li><a href="../index/service.php">Service</a></li>
                             <li><a href="../index/design.php">Design</a></li>
